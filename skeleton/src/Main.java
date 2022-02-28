@@ -5,5 +5,7 @@ public class Main {
             System.out.println(i);
         }
         System.out.println("test");
+        System.out.println("test3");
+        System.out.println("test4");
     }
 }
